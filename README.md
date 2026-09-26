@@ -1,6 +1,3 @@
-# coding-challenges-python
-My Python implementations of John Crickett's Coding Challenges, building software tools, parsers, and systems from scratch.
-
 # Coding Challenges in Python 🐍
 
 Welcome to my personal solutions and implementations for **John Crickett's Coding Challenges** using **Python**.
